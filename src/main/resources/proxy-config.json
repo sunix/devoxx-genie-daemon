@@ -1,0 +1,7 @@
+[
+    {
+        "interfaces": [
+            "dev.langchain4j.model.ollama.OllamaApi"
+        ]
+    }
+]
